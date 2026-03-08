@@ -2,7 +2,7 @@
 
 A secure, role-based access control (RBAC) chatbot designed for healthcare platforms, powered by Retrieval-Augmented Generation (RAG) with FastAPI, MongoDB, Pinecone, and LangChain.
 
-![Thumbnail](./assets/thumbnail.png)
+
 
 ## 🧠 Overview
 
@@ -113,4 +113,4 @@ This project is a secure, role-sensitive chatbot that answers medical queries us
 
 ---
 
-© 2025 \[Supratim / sn dev] — All rights reserved.
+
